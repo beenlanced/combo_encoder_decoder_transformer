@@ -1,0 +1,14 @@
+[project]
+name = "combo-encoder-decoder-transformer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bertopic>=0.17.0",
+    "datamapplot>=0.6.3",
+    "datasets>=3.6.0",
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "wordcloud>=1.9.4",
+]
