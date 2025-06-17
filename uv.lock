@@ -387,6 +387,9 @@ dependencies = [
     { name = "datasets" },
     { name = "ipykernel" },
     { name = "jupyter" },
+    { name = "matplotlib" },
+    { name = "numpy" },
+    { name = "pandas" },
     { name = "wordcloud" },
 ]
 
@@ -397,6 +400,9 @@ requires-dist = [
     { name = "datasets", specifier = ">=3.6.0" },
     { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "jupyter", specifier = ">=1.1.1" },
+    { name = "matplotlib", specifier = ">=3.10.3" },
+    { name = "numpy", specifier = ">=2.2.6" },
+    { name = "pandas", specifier = ">=2.3.0" },
     { name = "wordcloud", specifier = ">=1.9.4" },
 ]
 
