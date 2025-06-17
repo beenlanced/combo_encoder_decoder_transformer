@@ -34,7 +34,7 @@ A Visualization of the Decoder-Only LLM lies below
   <img alt="Decoder Generated Titles " src="imgs/datamapplot.png"/>
 </p>
 
-Overall, this project is great example of the power of AI and the ability of transformers to aid in exploratory data analysis and how to deal with vast archives that I otherwise would need help with to form associations.
+Overall, this project is a great example of the power of AI and the ability of transformers to aid in exploratory data analysis and how to deal with vast archives that I otherwise would need help with to form associations.
 
 ### My Solution
 
