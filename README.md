@@ -61,7 +61,7 @@ The project contains the key elements:
 - `Python` the standard modules,
 - `Sentence- Bidirectional Encoder Representations from Transformers (SBERT)` generate fixed-size sentence embeddings,
 - `Transformers`, to manipulate data,
-- `Uniform Manifold Approximatio and Projection (UMAP)`, a dimensionality reduction technique, and
+- `Uniform Manifold Approximation and Projection (UMAP)`, a dimensionality reduction technique, and
 - `uv` package management including use of `ruff` for linting and formatting
 
 ---
