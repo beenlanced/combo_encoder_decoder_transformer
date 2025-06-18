@@ -58,6 +58,7 @@ The project contains the key elements:
 - `Natural Language Processing (NLP)` to understand, interpret, and manipulate text,
 - `Numpy` for array manipulation,
 - `Pandas` for dataframe usage,
+- `Prompt Engineering` to create new test from Decoder LLM,
 - `Python` the standard modules,
 - `Sentence- Bidirectional Encoder Representations from Transformers (SBERT)` generate fixed-size sentence embeddings,
 - `Transformers`, to manipulate data,
