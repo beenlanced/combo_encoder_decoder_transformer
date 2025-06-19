@@ -164,7 +164,7 @@ Specifically, I would like to acknowledge:
 
 - [Joshua Starmer - StatQuest](https://youtu.be/YCzL96nL7j0). This project was based off of his `Illustrated Guide to Neural Networks and AI course`, particularly chapter 14's `Encoder-Only Transformers` which itelf is heavily based on the tutorial in Chapter 5 of _[Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)_ by [Jay Alammar](https://www.linkedin.com/in/jalammar/) and [Maarten Grootendorst](https://www.linkedin.com/in/mgrootendorst/). Thanks!
 
-- [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan) and [Benito Martin](https://martindatasol.com/blog) for sharing their README.md templates upon which I have derieved my README.md.
+- [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan) and [Benito Martin](https://martindatasol.com/blog) for sharing their README.md templates upon which I have derived my README.md.
 
 - The folks at Astral for their UV [documentation](https://docs.astral.sh/uv/)
 
