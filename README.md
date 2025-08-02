@@ -105,7 +105,7 @@ The Python version used for this project is `Python 3.12`.
 
 3. Activate the virtual environment: `.venv`
 
-   On macOs and Linux:
+   On macOS and Linux:
 
    ```bash
    source .venv/bin/activate #mac
